@@ -6,6 +6,7 @@ This is the first GDIM31 assignment! This is not a test - just a way to make sur
 ## Introduction
 
 1. Tell me a little bit about yourself and your interest in games! Be sure to include your preferred name and pronouns, and talk a little bit about what games you like to play, why you’re taking the class, any prior experience you have with game development, and what kind of games you hope to build.
+    - My name is Miyu Fujii. My pronouns are she/ her/ hers. I am taking this course because I want to build skills to create roblox as employee engagement platforms, especially for remote workers. I don't have any prior experience with building game, but I am thrilled to learn about it. 
 
 2. Which of the following best describes your major? Please specify if not GDIM.  
 
@@ -13,10 +14,12 @@ This is the first GDIM31 assignment! This is not a test - just a way to make sur
     - [ ] Computer Science or related major (CS, CSE, Data Science, Informatics, etc) (please specify)
     - [ ] Art-related major (please specify)
     - [ ] Undecided
-    - [ ] Other (please specify)
+    - [ ] Other Psychological Science
 
 3. What are you hoping to get out of this class?
+    - I am hoping to gain overal skills to build gam app. 
 4. What, if anything, are you nervous about for this class?
+    I don't have any coding experience. I am nervous if I am able to catch up with everything. 
 
 ## Prior Experience
 
@@ -25,11 +28,11 @@ The next questions ask about what (if any) prior experience you have. This class
 ### Development
 
 1. Programming (any languages/ frameworks)
-
+    0
 2. Game development (any engine)
-
+    0
 3. Unity
-
+    0
 ### Programming & Game Development Concepts
 
 For the next questions, a programming or game development concept is presented:
@@ -40,15 +43,15 @@ For the next questions, a programming or game development concept is presented:
 **These questions are not graded for accuracy! Answer honestly, don’t Google it.**
 
 1. Game design document
-
+    N/A
 2. Scope management
-
+    N/A
 3. Iteration
-
+    N/A
 4. Object-Oriented programming
-
+    N/A
 5. Model-View-Controller architecture
-
+    N/A
 ## Complete!
 
 You've completed your first homework assignment! Commit this file and push it to GitHub. You should be able to see that it's been submitted properly on the Github Classroom page or on your assignment repository.
