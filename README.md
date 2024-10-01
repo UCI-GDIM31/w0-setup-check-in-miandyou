@@ -28,7 +28,7 @@ The next questions ask about what (if any) prior experience you have. This class
 ### Development
 
 1. Programming (any languages/ frameworks)
-    0
+    Python 
 2. Game development (any engine)
     0
 3. Unity
